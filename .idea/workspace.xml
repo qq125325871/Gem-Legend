@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66428a14-6b92-492e-a951-c769fd9e36d9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wechatgame/src/project.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46008">
+              <caret line="1482" column="92" selection-start-line="1482" selection-start-column="92" selection-end-line="1482" selection-end-column="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2997">
+              <caret line="124" column="4" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wechatgame/cocos2d-js-min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217674">
+              <caret line="8062" column="16" selection-start-line="8062" selection-start-column="16" selection-end-line="8062" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wechatgame/utils/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/-.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Help/content_6.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Help/content_4.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Help/content_5.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/guangquan 0.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/help.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>console.log(&quot;11111</find>
+      <find>LevelPanel</find>
+      <find>console.log(&quot;11</find>
+      <find>this.node.scale = sceneManager.getSceneScale();</find>
+      <find>sceneManager.</find>
+      <find>more</find>
+      <find>console.log(&quot;1111</find>
+      <find>click</find>
+      <find>o.default.inst.login()</find>
+      <find>REWARD</find>
+      <find>collect all</find>
+      <find>collect all the golds</find>
+      <find>GameOverPanel</find>
+      <find>showGameOverPanel</find>
+      <find>savelocal</find>
+      <find>completeLevelList</find>
+      <find>clearCompleteLevelList</find>
+      <find>Deals</find>
+      <find>ClickRestart</find>
+      <find>monster</find>
+      <find>MonsterInfo</find>
+      <find>setMonsterHp = function</find>
+      <find>setMonster</find>
+      <find>getMonsterHp</find>
+      <find>setmonster</find>
+      <find>setMonsterMaxHp</find>
+      <find>Hp</find>
+      <find>setMonsterHp</find>
+      <find>monsterHp</find>
+      <find>monsterHp =</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wechatgame/cocos2d-js-min.js" />
+        <option value="$PROJECT_DIR$/wechatgame/main.js" />
+        <option value="$PROJECT_DIR$/wechatgame/res/import/01/018cf481.json" />
+        <option value="$PROJECT_DIR$/wechatgame/src/settings.js" />
+        <option value="$PROJECT_DIR$/wechatgame/game.json" />
+        <option value="$PROJECT_DIR$/wechatgame/game.js" />
+        <option value="C:/小游戏/16. Gem Legend-战斗三消-321329395116357/src/project.js" />
+        <option value="$PROJECT_DIR$/wechatgame/utils/helper.min.js" />
+        <option value="$PROJECT_DIR$/wechatgame/src/project.js" />
+        <option value="$PROJECT_DIR$/wechatgame/utils/config.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1036" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Gem Legend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gem Legend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gem Legend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gem Legend" type="462c0819:PsiDirectoryNode" />
+              <item name="wechatgame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gem Legend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gem Legend" type="462c0819:PsiDirectoryNode" />
+              <item name="wechatgame" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gem Legend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gem Legend" type="462c0819:PsiDirectoryNode" />
+              <item name="wechatgame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gem Legend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gem Legend" type="462c0819:PsiDirectoryNode" />
+              <item name="wechatgame" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DefendHome" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wechatgames\Gem Legend\wechatgame" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wechatgames\Gem Legend\res\raw-assets\resource\Texture" />
+      <recent name="C:\wechatgames\Gem Legend\res\raw-assets\resource\Texture\Help" />
+      <recent name="C:\wechatgames\Gem Legend\res\raw-assets\resource\Texture\win" />
+      <recent name="C:\wechatgames\Gem Legend\res\raw-assets\resource\Texture\English" />
+      <recent name="C:\wechatgames\Gem Legend\res\raw-assets\resource\Texture\Bag" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66428a14-6b92-492e-a951-c769fd9e36d9" name="Default Changelist" comment="" />
+      <created>1554865709385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554865709385</updated>
+      <workItem from="1554865710548" duration="1840000" />
+      <workItem from="1554969879084" duration="1418000" />
+      <workItem from="1555926104978" duration="1582000" />
+      <workItem from="1556011898290" duration="7440000" />
+      <workItem from="1556070331814" duration="7297000" />
+      <workItem from="1556078382397" duration="1215000" />
+      <workItem from="1556093116546" duration="6142000" />
+      <workItem from="1556156331428" duration="17603000" />
+      <workItem from="1556243234685" duration="205000" />
+      <workItem from="1556243466827" duration="234000" />
+      <workItem from="1556243716710" duration="698000" />
+      <workItem from="1556258918332" duration="17636000" />
+      <workItem from="1556279413584" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="63325000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12962963" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Number/no_dixueliang.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Number/no_guanka.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Prop/AutoAtlas-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/bg_jueseshux.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/btn_close_down.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/btn_close_up.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/gold.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/icon_beidong_01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/icon_beidong_02.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/icon_beidong_03.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/icon_beidong_04.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/icon_beidong_05.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/icon_beidong_07.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/icon_beidong_08.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/icon_beidong_09.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/icon_beidong_10.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/icon_beidong_011.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/icon_beidong_021.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/icon_beidong_031.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/icon_beidong_041.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/icon_beidong_051.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/icon_beidong_071.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/icon_beidong_081.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/icon_beidong_091.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Property/icon_beidong_101.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Setting/AUDIO.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Setting/off.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Setting/on.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Setting/setting_bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Setting/setting_title.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Throw/0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Throw/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Throw/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Throw/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Throw/3001.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Throw/3002.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Throw/3003.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Treasure/treasure_bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Treasure/treasure_title.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/+.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/src/project.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46008">
+          <caret line="1482" column="92" selection-start-line="1482" selection-start-column="92" selection-end-line="1482" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2997">
+          <caret line="124" column="4" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/cocos2d-js-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217674">
+          <caret line="8062" column="16" selection-start-line="8062" selection-start-column="16" selection-end-line="8062" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/-.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Help/content_6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Help/content_4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/Help/content_5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/guangquan 0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resource/Texture/help.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/utils/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
